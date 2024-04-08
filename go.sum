@@ -1,2 +1,6 @@
 github.com/alecthomas/log4go v0.0.0-20180109082532-d146e6b86faa h1:0zdYOLyuQ3TWIgWNgEH+LnmZNMmkO1ze3wriQt093Mk=
 github.com/alecthomas/log4go v0.0.0-20180109082532-d146e6b86faa/go.mod h1:iCVmQ9g4TfaRX5m5jq5sXY7RXYWPv9/PynM/GocbG3w=
+go.uber.org/multierr v1.10.0 h1:S0h4aNzvfcFsC3dRF1jLoaov7oRaKqRGC/pUEJ2yvPQ=
+go.uber.org/multierr v1.10.0/go.mod h1:20+QtiLqy0Nd6FdQB9TLXag12DsQkrbs3htMFfDN80Y=
+go.uber.org/zap v1.27.0 h1:aJMhYGrd5QSmlpLMr2MftRKl7t8J8PTZPA732ud/XR8=
+go.uber.org/zap v1.27.0/go.mod h1:GB2qFLM7cTU87MWRP2mPIjqfIDnGu+VIO4V/SdhGo2E=

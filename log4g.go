@@ -1,3 +1,6 @@
+//go:build log4go
+// +build log4go
+
 package logg
 
 import "github.com/alecthomas/log4go"
